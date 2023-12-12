@@ -3,7 +3,9 @@
 ## Objectif du cours
 Ce cours a pour objectif de permettre à l'apprenant d'apprendre la technologie la plus côtée quand il s'agit du web, le langage **JavaScript**. En plus d'apprendre les bases du langage, nous irons plus loin en vue de rendre des pages interactives à l'utilisateur. Ceci est le premier pas si vous vous voulez vous aventurer dans le développement web, **frontend** ou **backend**.
 
-> Durée: 22:00
+> Durée: **34H**
+Cours: 20H
+Projets/TP: 11H
 
 ## Contenu du cours
 Notre approche privilégiée sera d'introduire les notions une à une de façon très structurée. Ce faisant, nous mettrons ces notions en pratique à travers des petits projets ludiques, stimulants et divers.
@@ -29,6 +31,12 @@ Sans plus tarder, découvrez le contenu du cours et la répartition des chapitre
 |**Modularité**|Un bon programme est modulaire. Du début jusqu'à ce niveau du prograplan du cours, nous prendrons les bonnes habitudes : commentaires, lisibilité, etc. Mais ce chapitre nous apprendra comment diviser notre code en plusieurs fonctions et faire appel à ces fonctions pour rendre programme plus performant et maintenable.|
 |||Les fonctions|Les fonction interviennent dès que la question de rendre le programme modulaire se pose. C'est-à-dire chaque morceau de code fait ce qu'il fait et rien d'autre.|01:00|
 |||Retour sur la portée des variables|Après toutes les notions qu'on a apprises, il est primordial de s'atteler à la portée des variables afin de voir les limites d'accébilité des variables en JavaScript.|00:30|
+|**Le DOM (Document Object Model)**|Cette partie transversale, vous permettra d'acquérir les notions essentielles pour manipuler vos pages web et leur offrir du dynamisme.|
+|||Le DOM|Dans ce chapitre, l'objectif sera de présenter l'image du DOM qui n'est au final qu'un arbre d'éléments HTML dopée d'une API qui permet de les manipuler dynamiquement.|00:45|
+|||Cibler les éléments HTML|On ne manipule un élément que si il est correctement ciblé. C'est pourquoi dans cette partie du cours nous allons nous concentrer sur les différentes méthodes qui existe permettant de cibler les éléments dans une page HTML.|01:45|
+|||Les évènements|*Toute chose part de quelque part*, littéralement. Dans le contexte, tout changement qui survient sur la page Web répond en effet à un évènement. C'est ce que ce chapitre va nous enseigner.|02:00|
+|||Modifier le DOM|La partie la plus excitante c'est quand on voit les choses bouger sur notre page web sans qu'on ne les ait touchés. Car tout est programmé. Alors ici dans ce chapitre nous allons poser les jalons pour pouvoir rendre votre page dynamique en apprenant comment modifier le DOM.|03:00|
+|||Aller plus loin...|Il y a surement des omis, pour des questions de simplicité. Mais franchement, tout s'apprend ici. Alors nous allons présenter par soucis d'exhaustivité quelques méthodes et techniques utilisées.|01:00|
 
 ---
 
